@@ -19,6 +19,8 @@ biocLite('minfi')
 
 # Uage Documents: Shicheng Guo
 
+Data: 2016/09/28
+
 ## 1. Preparation
 1.1
 
