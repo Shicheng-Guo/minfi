@@ -17,7 +17,7 @@ biocLite('minfi')
 
 --------------------------------------------------------------------------------------------------
 
-# Shicheng's usage
+# Uage Documents: Shicheng Guo
 
 ## preparation
 
