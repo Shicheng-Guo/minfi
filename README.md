@@ -19,13 +19,13 @@ biocLite('minfi')
 
 # Uage Documents: Shicheng Guo
 
-## preparation
+## Preparation
 
 
-## read idat
+## Read idat
 
 
-## pre-processing
+## Pre-processing
 
 
 ## Analysis
