@@ -15,6 +15,8 @@ biocLite('minfi')
 | Test coverage |                     | <a href="https://codecov.io/github/kasperdanielhansen/minfi?branch=master"><img src="https://codecov.io/github/kasperdanielhansen/minfi/coverage.svg?branch=master" alt="Coverage Status"/></a>   |                  |
 
 
+--------------------------------------------------------------------------------------------------
+
 # Shicheng's usage
 
 ## preparation
